@@ -1,0 +1,4 @@
+default:
+	chmod 777 dnsserver
+	chmod 777 dnsserver.py
+	chmod 777 best_replica_server.py
